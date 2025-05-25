@@ -1,0 +1,1 @@
+# faroe_islands_cost_analysis
