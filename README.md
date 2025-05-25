@@ -20,6 +20,7 @@ faroe_islands_cost_analysis/
 │   └── 2025.csv
 ├── src/
 │   └── run.py
+│-- img/
 ├── requirements.txt
 └── README.md
 ```
